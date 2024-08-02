@@ -1,0 +1,28 @@
+.form-contant {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form {
+    padding: 5rem;
+    box-shadow: 15px 15px 50px grey;
+    border-radius: 1rem;
+}
+
+.danger {
+    color: red;
+}
+
+.submitBtn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.audio-container {
+    display: flex;
+    align-items: center;
+}
